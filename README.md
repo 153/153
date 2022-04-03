@@ -1,3 +1,3 @@
-Matrix : @wsx:philosophy.rodeo 
-IRC : #saovq @ irc.rizon.net
-mail : 52 ~ 4x13.net
+Matrix : @wsx:philosophy.rodeo  
+IRC : #saovq @ irc.rizon.net  
+Mail : 52 ~ 4x13.net
